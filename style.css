@@ -1,0 +1,17 @@
+.two {
+    font-size:15px;
+}
+
+#bioImg {
+    height:350px;
+    width:350px;
+    border:1px solid;
+    padding:10px;
+    box-shadow:5px 10px black;
+    margin-bottom:10px;
+}
+
+.pseudo-one:hover {
+    background-color:salmon;
+    font-size:larger;
+}
