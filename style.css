@@ -16,3 +16,9 @@
     font-size:larger;
 }
 
+.portfolio-text {
+    border: 1px solid black;
+    box-shadow: 5px 10px red;
+    background-color: teal;
+    padding:10px;
+}
