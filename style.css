@@ -19,19 +19,13 @@
     font-size:50px;
 }
 
-.portfolio-border {
-    border: 3px solid black;
-    box-shadow: 5px 10px red;
-    background-color: teal;
-    padding:10px;
-}
 
 .jumbotron-body {
     background-color:teal;
     border: 3px solid black;
 }
 
-.body-color {
+.body-style {
     background-color:lightgray;
     border:1px solid black;
     
@@ -42,3 +36,12 @@
     box-shadow: 5px 10px black;
 
 }
+
+.portfolio-border {
+    border: 3px solid black;
+    box-shadow: 5px 10px red;
+    background-color: teal;
+    padding:10px;
+}
+
+
