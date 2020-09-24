@@ -1,5 +1,15 @@
+.nav-body{
+    padding:15px;
+    background-color:black;
+}
+
+.one {
+    font-size:18px;
+}
+
 .two {
-    font-size:15px;
+    font-size:20px;
+    border:3px solid black;
 }
 
 #bioImg {
@@ -51,6 +61,7 @@
 .button {
     background-color:green;
     margin-left: 500px;
+    border: 3px solid black;
 }
 
 .portfolio-img {
