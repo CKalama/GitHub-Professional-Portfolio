@@ -58,6 +58,7 @@
     background-color: teal;
     padding:10px;
     font-family:"Permanent Marker", cursive;
+    color:yellowgreen;
 }
 
 #footer-margin {
@@ -79,7 +80,7 @@
 
 /* Cool Transform Image selector with pseudoclass, magnified picture everytime it was hovered over. */
 .portfolio-img:hover {
-    transform: scale(1.3);
+    transform: scale(2.0);
       -webkit-transition-duration: 1s;
     -moz-transition-duration: 1s;
     -o-transition-duration: 1s;
