@@ -31,7 +31,7 @@
 }
 
 
-.jumbotron-body {
+.jumbotron-card-body {
     background-color:teal;
     border: 3px solid black;
     font-family: "Permanent Marker", cursive;
@@ -92,4 +92,28 @@
     font-family: "Aldo", cursive;
 }
 
+#weather-icon {
+   /* align-items: center; */
+   width:50%;
+   margin:30px auto;
+
+}
+
+#lock-icon {
+    /* align-items: center; */
+    width:50%;
+    margin:25px auto;
+    
+ }
+
+ #music-icon {
+     width:50%;
+     margin:25px auto;
+ }
+
+ #hockey-icon {
+    width:50%;
+    margin:25px auto;
+}
+ 
 
