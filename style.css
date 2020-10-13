@@ -92,6 +92,10 @@
     font-family: "Aldo", cursive;
 }
 
+.card-font {
+    font-family: "Aldo", cursive;
+}
+
 #weather-icon {
    /* align-items: center; */
    width:50%;
